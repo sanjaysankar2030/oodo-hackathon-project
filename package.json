@@ -1,0 +1,25 @@
+{
+  "name": "oodo-hackathon-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee_dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaysankar2030/oodo-hackathon-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaysankar2030/oodo-hackathon-project/issues"
+  },
+  "homepage": "https://github.com/sanjaysankar2030/oodo-hackathon-project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
